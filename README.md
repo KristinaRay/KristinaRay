@@ -10,6 +10,18 @@
 * **Moscow Institute of Physics and Technology (State University) (MIPT)**
 
   Master’s degree, Applied Mathematics and Informatics, 2018 - 2020
+  
+  Master’s Thesis: Method of visual stimuli generation for interactive biometrical identification (which is based on eye movements characteristics)
+  
+Courses taken: 
+- Random Graphs,
+- Advanced Graph Theory, 
+- Hypergraphs,
+- Web Graphs (Python, NetworkX)
+- Internet Linguistics (Python, NLTK, GATE), 
+- Coding Theory,
+- Probability Theory,
+- Game Theory
 * **Moscow Pedagogical State University**
 
   Specialist’s degree, Social Sciences, 2009 - 2013
