@@ -29,4 +29,4 @@ Courses taken:
 ### Skills
 
 - **Languages**: Python, SQL
-- **Technologie**s: Git, Linux, Pandas, Numpy, Scikit-Learn, nltk, PyTorch, Matplotlib
+- **Technologie**s: Git, Linux, Pandas, Numpy, Scikit-Learn, nltk, Transformers, PyTorch, Matplotlib
